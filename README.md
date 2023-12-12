@@ -81,7 +81,7 @@ Di seguito sono riportate le caratteristiche della scheda, poi spiegate in detta
 - [Sistema BiDirezionale RCN217](#sistema-bidirezionale-RCN217)
 - [Microchip ATmega128A](#microchip-atmega128a)
 - [Porta di Programmazione ISP](#porta-di-programmazione-isp)
-- [Ambiente Salone](#Ambiente-Salone
+- [Ambiente Salone](#Ambiente-Salone)
 - [Vestiboli](#illuminazione-Vestiboli)
 - [Ritirate](#illuminazione-Ritirate)
 - [Luci di Coda Rosse](#luci-di-coda-rosse)
@@ -180,7 +180,9 @@ Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante
 ### Illuminazione Salone
 <img src="https://github.com/TheFidax/TFX066/blob/main/Images/luci_salone.jpg" width="1280">
 
-xxxx
+L'ambiente salone e' illuminato mediante 8 segmenti da 3 led l'uno, ogni segmento e' indipendente dagli altri, la configurazione ricalca il prototipo reale avente due file di luci.
+
+<img src="https://github.com/TheFidax/TFX066/blob/main/Images/luci_salone_reale.jpg" width="1280">
 
 ------------
 
