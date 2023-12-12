@@ -1,7 +1,7 @@
-# Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) [Uic Z1 Sottoposte a Revamping IC901](https://scalaenne.wordpress.com/2016/01/09/gran-sconfort-progetto-ic-901-ic-300-ic-270/) in Scala H0
-Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME Uic Z1 *IC901 / IC300 / IC270*, in scala H0.</br>
+# Scheda di Illuminazione Digitale per vetture [ACME](http://acmetreni.it/index.php/it/) [Uic Z1 Revamping IC901](https://scalaenne.wordpress.com/2016/01/09/gran-sconfort-progetto-ic-901-ic-300-ic-270/) in Scala H0
+Questa scheda e' pensata per illuminare in maniera digitale le vetture ACME Uic Z1 sottoposte a *Revamping IC901 / IC300 / IC270*, in scala H0.</br>
 E' stata progettata espressamente sugli ingombri stutturali della carrozza per massimizzare il realismo luminoso garantendo **tutte** le zone illuminate in maniera indipendente: 
-- Salone 
+- Ambiente Salone 
 - Vestiboli
 - Ritirate
 - Predisposizione per le *Luci di Coda Rosse* 
@@ -63,7 +63,7 @@ Le cifre finali del file .HEX identificano la versione del FirmWare.
 ------------
 
 ## HardWare
-Il progetto di questa scheda e' disponibile qui: https://workspace.circuitmaker.com/Projects/Details/luca-fidanza/ACME-UIC-X-Cuccette-Comfort-Class-H0 .</br>
+Il progetto di questa scheda e' disponibile qui: https://workspace.circuitmaker.com/Projects/Details/186E6AEE-F015-423A-8668-726747587AFF .</br>
 **Viene rilasciato con la seguente Licenza**: https://creativecommons.org/licenses/by-nc-nd/4.0/ .</br>
 I **File Gerber**, il **BOM** e il file **Pick and Place** sono nel file **.Zip** disponibile sotto la cartella [HardWare](https://github.com/TheFidax/TFX066/tree/main/HardWare).</br> 
 
