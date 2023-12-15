@@ -63,7 +63,7 @@ Le cifre finali del file .HEX identificano la versione del FirmWare.
 ------------
 
 ## HardWare
-Il progetto di questa scheda e' disponibile qui: https://workspace.circuitmaker.com/Projects/Details/luca-fidanza/ACME-UIC-Z1-IC901 .</br>
+Il progetto di questa scheda e' disponibile qui: https://workspace.circuitmaker.com/Projects/Details/luca-fidanza/TFX066 .</br>
 **Viene rilasciato con la seguente Licenza**: https://creativecommons.org/licenses/by-nc-nd/4.0/ .</br>
 I **File Gerber**, il **BOM** e il file **Pick and Place** sono nel file **.Zip** disponibile sotto la cartella [HardWare](https://github.com/TheFidax/TFX066/tree/main/HardWare).</br> 
 
