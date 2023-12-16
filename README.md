@@ -43,7 +43,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 ------------
 
 ## Video Presentazione del Progetto
-[![Video Presentazione](https://img.youtube.com/vi/xxxxxx/0.jpg)](http://www.youtube.com/watch?v=xxxxxxx)
+[![Video Presentazione](https://img.youtube.com/vi/rQUOdaE987Q/0.jpg)](http://www.youtube.com/watch?v=rQUOdaE987Q)
 
 ------------
 
