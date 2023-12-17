@@ -138,7 +138,7 @@ La scheda **e' compatibile con il DCC e con il Motorola**, programmazione **solo
 
 ------------
 
-### Sistema Bidirezionale RCN217
+### Sistema BiDirezionale RCN217
 <img src="https://github.com/TheFidax/TFX066/blob/main/Images/rcn217.jpg" width="1280">
 
 **NOTA: FUNZIONALITA' ANCORA NON IMPLEMENTATA LATO FIRMWARE.**</br>
@@ -153,7 +153,7 @@ Dalla revisione HardWare 1.10a e' disponibile il sistema di comunicazione bidire
 Il *cervello* della scheda e' un microcontrollore [ATmega128A](https://www.microchip.com/wwwproducts/en/ATmega128A) a 64 pin operante a 5 volt con frequenza di 16MHz tramite cristallo esterno.</br>
 Il microcontrollore comanda *in maniera indipendente* tutti (leggere NOTA) i LED, in modo tale da garantire la massima flessibilita' di funzionamento.</br>
 
-*NOTA*: Il corridoio e' progettato con *5 segmenti* da 3 led ognuno: il microcontrollore comanda il segmento e **non** il singolo LED.
+*NOTA*: Il salone e' progettato con *8 segmenti* da 3 led ognuno mentre i vestiboli sono illuminati da due led in parallelo; il microcontrollore comanda il segmento e **non** il singolo LED.
 
 Il chip e' programmabile **anche** utilizzando l'**Arduino IDE** (mediante *programmatore ISP*) tramite il [MegaCore](https://github.com/MCUdude/MegaCore).</br>
 
