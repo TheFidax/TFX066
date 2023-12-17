@@ -180,9 +180,7 @@ Questa porta svolge la doppia funzione di **Porta ISP** e **Porta I2C** mediante
 ### Ambiente Salone
 <img src="https://github.com/TheFidax/TFX066/blob/main/Images/luci_salone.jpg" width="1280">
 
-L'ambiente salone e' illuminato mediante 8 segmenti da 3 led l'uno, ogni segmento e' indipendente dagli altri, la configurazione ricalca il prototipo reale avente due file di luci.
-
-<img src="https://github.com/TheFidax/TFX066/blob/main/Images/luci_salone_reale.jpg" width="1280">
+L'ambiente salone e' illuminato mediante 8 segmenti da 3 led l'uno, ogni segmento e' indipendente dagli altri; a differenza del prototipo reale, ove l'illuminazione e' centrale ed illumina in maniera diffusa, sulla scheda si e' optato per due file di led cosi' da illuminare in maniera piu' uniforme l'ambiente a salone.</br>
 
 ------------
 
