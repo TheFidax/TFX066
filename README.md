@@ -8,6 +8,8 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 **Codice Identificativo Progetto: TFX066**
 
+**Testata con i seguenti modelli**: **55141 - 55276**.
+
 **Ultima Revisione HardWare: 1.31d**
 
 **Ultima Revisione FirmWare: 018**
