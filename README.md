@@ -10,9 +10,9 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 **Testata con i seguenti modelli**: **55141 - 55276**.
 
-**Ultima Revisione HardWare: 1.40d**
+**Ultima Revisione HardWare: 1.40b**
 
-**Ultima Revisione FirmWare: 018**
+**Ultima Revisione FirmWare: 019**
 
 *NOTA:* Dalla revisione Hardware 1.31b e' possibile conoscere il *Seriale Progressivo* della scheda tramite lo spazio ad esso dedicato:
 <img src="https://github.com/TheFidax/TFX066/blob/main/Images/progressivo_seriale.jpg" width="1280">
