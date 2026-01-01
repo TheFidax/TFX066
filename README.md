@@ -10,7 +10,7 @@ E' stata progettata espressamente sugli ingombri stutturali della carrozza per m
 
 **Testata con i seguenti modelli**: **55141 - 55276**.
 
-**Ultima Revisione HardWare: 1.41b**
+**Ultima Revisione HardWare: 1.50a**
 
 **Ultima Revisione FirmWare: 019**
 
